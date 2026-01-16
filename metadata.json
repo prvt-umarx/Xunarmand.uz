@@ -1,0 +1,8 @@
+{
+  "name": "Xunarmand.uz",
+  "description": "O'zbekistondagi ustalar va mijozlarni bog'lovchi innovatsion platforma. Qurilish, ta'mirlash, avto xizmatlar va boshqa ko'plab soha mutaxassislarini oson toping.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
